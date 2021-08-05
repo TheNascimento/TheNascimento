@@ -15,3 +15,12 @@
   <img align="center" alt="C#" height="30" width="40" title="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="CSS" height="30" width="40" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+  
+# 
+  
+<div style="display: inline_block" align="center">
+  <p>
+    Redes Sociais  
+  </p>  
+  <a href="https://www.facebook.com/0tiagonascimento/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://instagram.com/tiagonascimento_25" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
