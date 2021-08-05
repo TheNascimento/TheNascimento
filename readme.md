@@ -16,7 +16,7 @@
   <img align="center" alt="CSS" height="30" width="40" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-# 
+## 
   
 <div style="display: inline_block" align="center">
   <p>
@@ -27,3 +27,6 @@
 </div>
   
 ![Snake animation](https://github.com/TheNascimento/TheNascimento/blob/output/github-contribution-grid-snake.svg)  
+  
+<!--- Baseado no código da rafaballerini --->  
+  
